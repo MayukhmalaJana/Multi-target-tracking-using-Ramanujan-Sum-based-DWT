@@ -22,7 +22,7 @@ Wavelets are powerful set of tools used for Computer Vision. Ramanujan sums-base
 **Required Input :** 
 
   Source static image sequence three frames (i1,i2,i3) and
-                     groundtruth image(igt)
+                     groundtruth image (igt)
  
 **Output :**    
 
@@ -36,9 +36,16 @@ Wavelets are powerful set of tools used for Computer Vision. Ramanujan sums-base
   
 **Usage :**
 
-          This is the main code for running the ors tracking methodology,
-          please download other functions and dataset to run this main
-          file properly.
+          Here is the main code for running the ors tracking methodology,
+          please download other functions and datasets to run the main
+          files properly. 
+          
+          For three image frame use: ORS_Tracking_main.m and
+          for using video for tracking use: ORS_Tracking_byaircraft_main.m
+          
+          For example purpose, three image frame data has been given with the ground-truth image.
+          Please download your own video and respective groundtruth frames to use the ORS_Tracking_byaircraft_main.m file.
+    
           
 # Citing this work
 
