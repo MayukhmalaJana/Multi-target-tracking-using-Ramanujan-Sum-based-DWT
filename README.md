@@ -24,8 +24,11 @@ Wavelets are powerful set of tools used for Computer Vision. Ramanujan sums-base
  
 **Output :**    
          (1) Metrics: ri,gce,vi
+         
          (2) Segmented Image: itr 
+         
          (3) Original Image with bounding box: ii
+         
          (4) The coordinates of bounding box: s
   
 **Usage :**
