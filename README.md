@@ -7,6 +7,8 @@ _This paper was awarded the best paper award of the session in 2021 IEEE ICORT_
 
 Wavelets are powerful set of tools used for Computer Vision. Ramanujan sums-based wavelet transform is relatively new in the field of signal processing. In this paper the Ramanujan Sum based DWT (Discrete wavelet transform) is implemented to tackle the problem of multitarget tracking using wavelets. A novel multi-target tracking algorithm is proposed based on DWT. The implementation is done for real time video sequences. The result is compared to Haar & Daubechies based DWT tracking algorithm and performance is better in the video sequences that have been evaluated on the Ramanujan sums-based DWT tracking algorithm. Also, as Ramanujan sums-based wavelet transform use integer coefficients and the normalization can be performed at a later stage, it would be easier to form hardware on this.
 
+**Flowchart**
+
  ![image](https://user-images.githubusercontent.com/81149819/226101572-b6c2fcc8-06f0-4225-a4ff-bca9512cc04a.png)
 
 **About the paper: Multi-target tracking using Ramanujan Sum based DWT**
@@ -49,7 +51,7 @@ Wavelets are powerful set of tools used for Computer Vision. Ramanujan sums-base
           
 # Citing this work
 
-**If you find this work useful in your research,Please consider to cite the work if you use this package.**
+**If you find this work useful in your research, please consider to cite the work for using this package.**
 
  _M. Jana and P. Roy, "Multi-target tracking using Ramanujan Sum based DWT," 2021 2nd International Conference on Range Technology (ICORT), Chandipur, Balasore, India, 2021, pp. 1-6, doi: 10.1109/ICORT52730.2021.9581552._
  
