@@ -1,12 +1,13 @@
 # Multi-target-tracking-using-Ramanujan-Sum-based-DWT
 
 This is the implementation for [Multi-target tracking using Ramanujan Sum based DWT](https://ieeexplore.ieee.org/document/9581552)
+This paper was awarded the best paper award of the session in 2021 IEEE ICORT
 
 # Abstract
 
 Wavelets are powerful set of tools used for Computer Vision. Ramanujan sums-based wavelet transform is relatively new in the field of signal processing. In this paper the Ramanujan Sum based DWT (Discrete wavelet transform) is implemented to tackle the problem of multitarget tracking using wavelets. A novel multi-target tracking algorithm is proposed based on DWT. The implementation is done for real time video sequences. The result is compared to Haar & Daubechies based DWT tracking algorithm and performance is better in the video sequences that have been evaluated on the Ramanujan sums-based DWT tracking algorithm. Also, as Ramanujan sums-based wavelet transform use integer coefficients and the normalization can be performed at a later stage, it would be easier to form hardware on this.
 
-![motion_detection](https://user-images.githubusercontent.com/81149819/226100151-bacecce9-e124-4733-a335-41c320f23b4c.png)
+![image](https://user-images.githubusercontent.com/81149819/226101572-b6c2fcc8-06f0-4225-a4ff-bca9512cc04a.png)
 
 **About the paper: Multi-target tracking using Ramanujan Sum based DWT**
 
@@ -37,3 +38,11 @@ Wavelets are powerful set of tools used for Computer Vision. Ramanujan sums-base
 ** If you find this work useful in your research,Please consider to cite the work if you use this package.**
 
  _M. Jana and P. Roy, "Multi-target tracking using Ramanujan Sum based DWT," 2021 2nd International Conference on Range Technology (ICORT), Chandipur, Balasore, India, 2021, pp. 1-6, doi: 10.1109/ICORT52730.2021.9581552._
+ 
+# Results
+
+![image](https://user-images.githubusercontent.com/81149819/226101531-9d1b2719-3f89-426a-bdc1-43c89d44f626.png)
+
+![image](https://user-images.githubusercontent.com/81149819/226101553-583e3f3d-e826-402f-9fcb-bcfa2388934c.png)
+
+
